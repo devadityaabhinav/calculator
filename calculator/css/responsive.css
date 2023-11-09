@@ -1,0 +1,13 @@
+@media (max-width:500px){
+    .container{
+        width:60vw;
+        position: absolute;
+        left:13%;
+        top:20%;
+        height:450px;
+        width:320px;
+    }
+    .btns{
+        width:96%;
+    }
+}
